@@ -1,0 +1,177 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mets:mets xmlns:mets="http://www.loc.gov/METS/"
+           xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+           xmlns:xs="http://www.w3.org/2001/XMLSchema"
+           xmlns:mods="http://www.loc.gov/mods/v3"
+           xmlns:dv="http://dfg-viewer.de/"
+           xmlns:xlink="http://www.w3.org/1999/xlink"
+           xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd http://www.loc.gov/METS/ http://www.loc.gov/standards/mets/version19/mets.v1-9.xsd">
+   <mets:metsHdr CREATEDATE="2016-05-02T12:09:04.482+02:00">
+      <mets:agent ROLE="CREATOR" TYPE="ORGANIZATION">
+         <mets:name>Staats- und Universitätsbibliothek Göttingen</mets:name>
+      </mets:agent>
+   </mets:metsHdr>
+   <mets:dmdSec ID="DMDID_0001">
+      <mets:mdWrap MDTYPE="MODS">
+         <mets:xmlData>
+            <mods xmlns:local="http://www.loc.org/namespace" xmlns="http://www.loc.gov/mods/v3">
+               <titleInfo>
+                  <nonSort>[The </nonSort>
+                  <title>speech of His Excellency] Charles Hardy, Knt. [captain general and] governor in chief in and over the [province of] New-York ...</title>
+                  <subTitle>To [the Council] and General Assembly of the said province</subTitle>
+               </titleInfo>
+               <name type="corporate">
+                  <namePart>New York (Colony)</namePart>
+                  <namePart>Governor (1755-1757 : Hardy)</namePart>
+                  <displayForm>New York (Colony) Governor (1755-1757 : Hardy)</displayForm>
+               </name>
+               <name type="personal">
+                  <namePart>Hardy, Charles</namePart>
+                  <namePart type="termsOfAddress">Sir</namePart>
+                  <namePart type="date">1716?-1780</namePart>
+                  <displayForm>Hardy, Charles</displayForm>
+               </name>
+               <name type="corporate">
+                  <namePart>New York (State)</namePart>
+                  <namePart>General Assembly</namePart>
+                  <displayForm>New York (State) General Assembly</displayForm>
+               </name>
+               <name type="corporate">
+                  <namePart>New York (Colony)</namePart>
+                  <namePart>Council</namePart>
+                  <displayForm>New York (Colony) Council</displayForm>
+               </name>
+               <typeOfResource>text</typeOfResource>
+               <originInfo>
+                  <place>
+                     <placeTerm type="code" authority="marccountry">nyu</placeTerm>
+                  </place>
+                  <place>
+                     <placeTerm type="text">New York </placeTerm>
+                  </place>
+                  <publisher>Printed by James Parker</publisher>
+                  <dateIssued>1755]</dateIssued>
+                  <dateIssued encoding="marc">1755</dateIssued>
+                  <dateIssued encoding="marc">1755</dateIssued>
+                  <issuance>monographic</issuance>
+               </originInfo>
+               <originInfo eventType="digitization">
+                  <edition>[Electronic ed.]</edition>
+                  <place>
+                     <placeTerm type="text">Chester, Vt. </placeTerm>
+                  </place>
+                  <publisher>Readex, a division of Newsbank, Inc.,</publisher>
+                  <dateCaptured encoding="iso8601" point="start" keyDate="yes">2002</dateCaptured>
+                  <dateCaptured encoding="iso8601" point="end">2004</dateCaptured>
+               </originInfo>
+               <language>
+                  <languageTerm authority="iso639-2b" type="code" valueURI="http://eng">eng</languageTerm>
+               </language>
+               <physicalDescription>
+                  <form authority="marcform">electronic</form>
+                  <form authority="marccategory">electronic resource</form>
+                  <form authority="marcsmd">remote</form>
+                  <form authority="gmd">electronic resource </form>
+                  <reformattingQuality>access</reformattingQuality>
+                  <extent>1 sheet ([2] p.)</extent>
+                  <digitalOrigin>digitized microfilm</digitalOrigin>
+               </physicalDescription>
+               <note>Signed: Fort-George, New-York, 3d December, 1755. Charles Hardy.</note>
+               <note>The only known copy, held by the New York State Library, is badly mutilated. Title taken from Evans.</note>
+               <note>Ascribed to the press of James Parker by Evans.</note>
+               <note type="additional physical form">Microform version available in the Readex Early American Imprints series.</note>
+               <note type="reproduction">Electronic text and image data. [Chester, Vt. : Readex, a division of Newsbank, Inc., 2002-2004. Includes files in TIFF, GIF and PDF formats with inclusion of keyword searchable text. (Early American imprints. First series ; no. 7512).</note>
+               <subject authority="lcsh">
+                  <geographic>New York (State)</geographic>
+                  <topic>History</topic>
+                  <temporal>French and Indian War, 1755-1763</temporal>
+               </subject>
+               <subject>
+                  <hierarchicalGeographic>
+                     <country>United States</country>
+                     <state>New York</state>
+                     <city>New York</city>
+                  </hierarchicalGeographic>
+               </subject>
+               <location>
+                  <url access="object in context">   
+             http:\\sub.uni-goettingen.de\nalrepository</url>
+               </location>
+               <relatedItem type="isReferencedBy">
+                  <titleInfo>
+                     <title>Evans</title>
+                  </titleInfo>
+                  <note>7512</note>
+               </relatedItem>
+               <relatedItem type="series">
+                  <titleInfo>
+                     <title>Early American imprints. no. 7512</title>
+                     <partNumber>First series </partNumber>
+                  </titleInfo>
+               </relatedItem>
+               <recordInfo>
+                  <descriptionStandard>aacr</descriptionStandard>
+                  <descriptionStandard>bdrb</descriptionStandard>
+                  <recordContentSource authority="marcorg">MWA</recordContentSource>
+                  <recordCreationDate encoding="marc">880419</recordCreationDate>
+                  <recordChangeDate encoding="iso8601">20021212171745.0</recordChangeDate>
+                  <recordIdentifier>aas03016168</recordIdentifier>
+                  <recordOrigin>Converted from MODS version 3.5 to MODS AP 2.2</recordOrigin>
+               </recordInfo>
+            </mods>
+         </mets:xmlData>
+      </mets:mdWrap>
+   </mets:dmdSec>
+   <mets:amdSec ID="amd">
+      <mets:rightsMD ID="RIGHTS">
+         <mets:mdWrap MDTYPE="OTHER" MIMETYPE="text/xml" OTHERMDTYPE="DVRIGHTS">
+            <mets:xmlData>
+               <dv:rights>
+                  <dv:owner>...</dv:owner>
+                  <dv:ownerSiteURL>...</dv:ownerSiteURL>
+               </dv:rights>
+            </mets:xmlData>
+         </mets:mdWrap>
+      </mets:rightsMD>
+   </mets:amdSec>
+   <mets:fileSec>
+      <mets:fileGrp USE="DEFAULT">
+         <mets:file ID="FILE_0001_DEFAULT" MIMETYPE="image/jpeg">
+            <mets:FLocat LOCTYPE="URL" xlink:href="102D31C64F4875D8_media/102B9EF61097F0A8.jpg"/>
+         </mets:file>
+         <mets:file ID="FILE_0002_DEFAULT" MIMETYPE="image/jpeg">
+            <mets:FLocat LOCTYPE="URL" xlink:href="102D31C64F4875D8_media/102B9EF8227CC410.jpg"/>
+         </mets:file>
+      </mets:fileGrp>
+      <mets:fileGrp USE="TEI">
+         <mets:file ID="FILE_0001_TEI" MIMETYPE="text/xml">
+            <mets:FLocat LOCTYPE="URL"
+                         xlink:href="102D31C64F4875D8_tei/102B9EF61097F0A8.tei.xml"/>
+         </mets:file>
+         <mets:file ID="FILE_0002_TEI" MIMETYPE="text/xml">
+            <mets:FLocat LOCTYPE="URL"
+                         xlink:href="102D31C64F4875D8_tei/102B9EF8227CC410.tei.xml"/>
+         </mets:file>
+      </mets:fileGrp>
+   </mets:fileSec>
+   <mets:structMap TYPE="PHYSICAL">
+      <mets:div TYPE="physSequence" ID="PHYS_0000">
+         <mets:div ID="PHYS_0001" TYPE="page" ORDER="1">
+            <mets:fptr FILEID="FILE_0001_DEFAULT"/>
+            <mets:fptr FILEID="FILE_0001_TEI"/>
+         </mets:div>
+         <mets:div ID="PHYS_0002" TYPE="page" ORDER="2">
+            <mets:fptr FILEID="FILE_0002_DEFAULT"/>
+            <mets:fptr FILEID="FILE_0002_TEI"/>
+         </mets:div>
+      </mets:div>
+   </mets:structMap>
+   <mets:structMap TYPE="LOGICAL">
+      <mets:div ADMID="amd" DMDID="DMDID_0001" ID="LOG_0000" TYPE="monograph"/>
+   </mets:structMap>
+   <mets:structLink>
+      <mets:smLink xlink:to="PHYS_0001" xlink:from="LOG_0000"/>
+      <mets:smLink xlink:to="PHYS_0002" xlink:from="LOG_0000"/>
+      <!--Ab hier weitere Strukturelemente-->
+   </mets:structLink>
+</mets:mets>
